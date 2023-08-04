@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/lm-portofilio/static/css/main.73740c3d.css",
+    "main.js": "/lm-portofilio/static/js/main.cce1baa1.js",
+    "static/js/787.1f11dfe9.chunk.js": "/lm-portofilio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/mariano.pdf": "/lm-portofilio/static/media/mariano.d2e3fde8ffe561f6f0e8.pdf",
+    "static/media/profile2.jpg": "/lm-portofilio/static/media/profile2.d035623073ebe126893c.jpg",
+    "static/media/batrizha.jpg": "/lm-portofilio/static/media/batrizha.f2e956b67c97f6708ccb.jpg",
+    "static/media/testimonial3.png": "/lm-portofilio/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/work2.jpg": "/lm-portofilio/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/testimonial2.png": "/lm-portofilio/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/work4.jpg": "/lm-portofilio/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/lm-portofilio/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/lm-portofilio/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/lm-portofilio/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/testimonial1.png": "/lm-portofilio/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/lm-portofilio/index.html",
+    "main.73740c3d.css.map": "/lm-portofilio/static/css/main.73740c3d.css.map",
+    "main.cce1baa1.js.map": "/lm-portofilio/static/js/main.cce1baa1.js.map",
+    "787.1f11dfe9.chunk.js.map": "/lm-portofilio/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73740c3d.css",
+    "static/js/main.cce1baa1.js"
+  ]
+}
