@@ -57,7 +57,7 @@ const Qualification = () => {
                    </div>
 
                     <div>
-                        <h3 className="qualification__title">Bachelor of Science in Information Technology</h3>
+                        <h3 className="qualification__title">BS Information Technology</h3>
                         <span className="qualification__subtitle">
                             Bulacan Sate University
                         </span>
